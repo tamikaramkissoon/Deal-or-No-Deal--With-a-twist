@@ -1,9 +1,3 @@
-/*Tamika Ramkissoon
-816010368
-COMP1602
-Assignment 4
-*/
-
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
